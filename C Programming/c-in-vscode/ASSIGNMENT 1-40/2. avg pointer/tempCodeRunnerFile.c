@@ -1,0 +1,1 @@
+//calculate the average of numbers between m and n using pointers
